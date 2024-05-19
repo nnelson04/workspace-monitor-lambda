@@ -1,0 +1,12 @@
+aws-cdk.core
+aws-cdk.aws-lambda
+aws-cdk.aws-events
+aws-cdk.aws-events-targets
+aws-cdk.aws-iam
+aws-cdk.aws-s3
+aws-cdk.aws-ses
+aws-cdk.aws-ssm
+aws-cdk.aws-secretsmanager
+aws-cdk.aws-logs
+aws-cdk.aws-workspaces
+boto3
