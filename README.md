@@ -82,6 +82,3 @@ This project is licensed under the Apache License - see the LICENSE file for det
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## Contact
-For any inquiries or issues, please contact your-email@example.com.
